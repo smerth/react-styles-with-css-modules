@@ -1,5 +1,8 @@
 import React from "react";
 
+//styles
+import styles from "./Smoke.module.css";
+
 export default class Smoke extends React.Component {
   render() {
     return (

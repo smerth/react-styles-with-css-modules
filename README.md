@@ -5,3 +5,5 @@ Tutorial project from [Lynda.com course](https://www.lynda.com/React-js-tutorial
 ## Releases
 
 * Release - 1.0.0 Initial setup
+* Release - 1.1.0 Add components to the app
+* Release - 1.2.0 CSS Syntax with the component
