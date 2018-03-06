@@ -6,8 +6,8 @@ import styles from "./Smoke.module.css";
 export default class Smoke extends React.Component {
   render() {
     return (
-      <div>
-        <h1>Stateful component - Smoke</h1>
+      <div className={styles.smoke}>
+        <video className={styles.video} autoPlay loop src="/smoke.mov" />
       </div>
     );
   }

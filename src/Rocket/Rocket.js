@@ -7,7 +7,7 @@ export default class Rocket extends React.Component {
   render() {
     return (
       <div>
-        <h1>Stateful component - Rocket</h1>
+        <img src="/shuttle.png" alt="shuttle" className={styles.img} />
       </div>
     );
   }
