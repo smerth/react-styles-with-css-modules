@@ -8,3 +8,4 @@ Tutorial project from [Lynda.com course](https://www.lynda.com/React-js-tutorial
 * Release - 1.1.0 Add components to the app
 * Release - 1.2.0 CSS Syntax with the component
 * Release - 1.3.0 Use Composes to leverage other styles
+* Release - 1.4.0 Set up state and grid component
