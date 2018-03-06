@@ -1,12 +1,18 @@
 .smoke {
     position: relative;
     bottom: 0px;
-    margin-top: -500px;
+    margin-top: -450px;
     z-index: 99;
 }
 
 .video {
     width: 100%;
     height: auto;
-    opacity: 0.5;
+    opacity: 0.3;
+}
+
+@media (max-width: 900px) {
+    .smoke {
+        visibility: hidden;
+    }
 }

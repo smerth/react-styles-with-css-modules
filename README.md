@@ -13,3 +13,4 @@ Tutorial project from [Lynda.com course](https://www.lynda.com/React-js-tutorial
 * Release - 1.6.0 Basic Animation with CSS keyframes
 * Release - 1.7.0 SVG Loading with State
 * Release - 1.8.0 Add final elements
+* Release - 1.9.0 Media queries and combine styles
