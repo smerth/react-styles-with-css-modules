@@ -2,6 +2,8 @@
 
 Tutorial project from [Lynda.com course](https://www.lynda.com/React-js-tutorials/React-Building-Styles-CSS-Modules/599632-2.html?)
 
+A react webpage of NASA facts with audio, video and clickable icons styled with CSS Modules.
+
 ## Releases
 
 * Release - 1.0.0 Initial setup
